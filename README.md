@@ -6,4 +6,8 @@ El modpack fue creado junto a los pioneros de DeathCraft, quienes ayudaron a dar
 
 Este repositorio contiene shaders y resource packs recomendados para que los jugadores obtengan una buena experiencia. Es recomendable utilizar shaders solo si se tienen componentes con la capacidad de ejecutarlos.
 
-- Si tienes alguna sugerencia para el modpack, puedes hacerla en el canal de sugerencias del [servidor de Discord oficial de DeathCraft](https://discord.gg/8Wgc9ftGg7).
+La carpeta "mods opcionales" contiene mods que puedes implementar a tu minecraft para tener mejor calidad, algo así como los shaders (recomendable solo utilizar con componentes apropiados).
+
+- Si por algun motivo no puedes descargar el modpack desde github puedes descargarlo desde el [**mediafire oficial de DeathCraft**](https://www.mediafire.com/file/wqzzp3h2st821ek/deathcraft.zip/file).
+
+- Si tienes alguna sugerencia para el modpack, puedes hacerla en el canal de sugerencias del [**servidor de Discord oficial de DeathCraft**](https://discord.gg/8Wgc9ftGg7).
